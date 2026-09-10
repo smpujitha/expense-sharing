@@ -1,6 +1,6 @@
 
 
-## 📌 Project Overview
+##  Project Overview
 
 The Expense Sharing Application is a Python-based project designed to simplify the process of **splitting shared expenses among friends or groups**.
 
